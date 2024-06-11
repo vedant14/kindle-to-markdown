@@ -1,0 +1,2 @@
+- The export is working as expected. But is not consistent across books
+- https://my.clippings.io/ is surprisingly more accurate
